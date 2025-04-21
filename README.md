@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Matteo</h1>
-<h3 align="center">A passionate DevOps Engineer and Solutions Architect from Italy</h3>
+<h3 align="center">🚀 DevOps Engineer & Solutions Architect based in Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteodev10&label=Profile%20views&color=0e75b6&style=flat" alt="matteodev10" /> </p>
 
-- 🔭 I’m currently working on **AntiFraud Architecture**
+💼 **Current Focus**: Designing and implementing robust **Anti-Fraud Architectures**
+📚 **Expanding My Toolbox**: Mastering **Python, AWS**, and the world of **Security in Cloud Computing**
+🤝 **Open to Collaborations**: Let's build something amazing in **IoT, Cybersecurity, or Microservices**
+🎯 **Experience That Counts**: 8+ years crafting scalable and secure software solutions
+⚡ **Fun Fact**: I turn complex systems into elegant, automated pipelines
 
-- 🌱 I’m currently learning **Python, AWS and Cloud Computing**
-
-- 👯 I’m looking to collaborate on **IoT, Cybersecurity and Microservices projects**
-
-- 🤝 I’m looking for help with **8 years experience in Software Development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">**📫 Let’s Connect!**</h3>
+<p align="left">Whether it's a quick tech chat or a deep-dive into architecture — I'm all ears. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
