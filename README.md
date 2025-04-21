@@ -9,7 +9,7 @@
 🎯 **Experience That Counts**: 8+ years crafting scalable and secure software solutions
 ⚡ **Fun Fact**: I turn complex systems into elegant, automated pipelines
 
-<h3 align="left">**📫 Let’s Connect!**</h3>
+<h3 align="left">📫 Let’s Connect!</h3>
 <p align="left">Whether it's a quick tech chat or a deep-dive into architecture — I'm all ears. 
 </p>
 
