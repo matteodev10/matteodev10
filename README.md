@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteodev10&label=Profile%20views&color=0e75b6&style=flat" alt="matteodev10" /> </p>
 
-💼 **Current Focus**: Designing and implementing robust **Anti-Fraud Architectures**
-📚 **Expanding My Toolbox**: Mastering **Python, AWS**, and the world of **Security in Cloud Computing**
-🤝 **Open to Collaborations**: Let's build something amazing in **IoT, Cybersecurity, or Microservices**
-🎯 **Experience That Counts**: 8+ years crafting scalable and secure software solutions
-⚡ **Fun Fact**: I turn complex systems into elegant, automated pipelines
+💼 **Current Focus**: Designing and implementing robust **Anti-Fraud Architectures** <br/>
+📚 **Expanding My Toolbox**: Mastering **Python, AWS**, and the world of **Security in Cloud Computing** <br/>
+🤝 **Open to Collaborations**: Let's build something amazing in **IoT, Cybersecurity, or Microservices** <br/>
+🎯 **Experience That Counts**: 8+ years crafting scalable and secure software solutions <br/>
+⚡ **Fun Fact**: I turn complex systems into elegant, automated pipelines <br/>
 
 <h3 align="left">📫 Let’s Connect!</h3>
 <p align="left">Whether it's a quick tech chat or a deep-dive into architecture — I'm all ears. 
